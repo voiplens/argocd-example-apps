@@ -15,7 +15,7 @@ metadata:
     metadata.automat.seek.com/system: tutorial-system
     metadata.automat.seek.com/tenant: playground
     metadata.automat.seek.com/component: testbook
-    metadata.automat.seek.com/deployment-id: 69d086f92dafc1e9fca77450335d26791ba7bddb.2460
+    metadata.automat.seek.com/deployment-id: 2ecf1fb8c2b211fd08d183c5ef6d9886acb6f84c.2412
     metadata.automat.seek.com/deployment: dev
     metadata.automat.seek.com/tier: development
     metadata.automat.seek.com/region: ap-southeast-2
